@@ -14,19 +14,19 @@ I have worked on a variety of projects, ranging from web development to game pro
 
     Project 1: A web application for managing employee data
     Project 2: A game developed using Unity game engine
--Project 3: A tool for automating repetitive tasks
+    Project 3: A tool for automating repetitive tasks
 
 ##Skills 👨‍💻
 
-- Programming languages: C, Assembly, C++, Python, JavaScript, Java, Scala, and many others
-- Frameworks: Django, React, Angular, Flask, Spring, Express
-- Tools: Git, Docker, Kubernetes, AWS, GCP
+    Programming languages: C, Assembly, C++, Python, JavaScript, Java, Scala, and many others
+    Frameworks: Django, React, Angular, Flask, Spring, Express
+    Tools: Git, Docker, Kubernetes, AWS, GCP
 
 ##Contact Me 📫
 
 Feel free to reach out to me via email or social media if you want to collaborate on a project or just say hello!
 
--Email: joegilliard2@email.com
+    Email: joegilliard2@email.com
 
 ##Fun Fact 😄
 
