@@ -20,7 +20,6 @@ I have worked on a variety of projects, ranging from web development to game pro
 
     Project 1: A web application for managing employee data
     Project 2: A game developed using Unity game engine
-    Project 3: A tool for automating repetitive tasks
 
 ## Skills 👨‍💻
 
