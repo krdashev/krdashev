@@ -36,4 +36,4 @@ Feel free to reach out to me via email or social media if you want to collaborat
 
 ## Fun Fact 😄
 
-I love to play video games in my free time and I'm also a huge fan of science fiction movies and TV shows.
+I love to workout in my free time and I'm also a huge fan of science and documentaries.
