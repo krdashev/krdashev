@@ -22,7 +22,7 @@ I have worked on a variety of projects, ranging from web development to game pro
     Frameworks: Django, React, Angular, Flask, Spring, Express
     Tools: Git, Docker, Kubernetes, AWS, GCP
 
-##Founder and CEO of FusionX 💡
+## Founder and CEO of FusionX 💡
 
 In addition to my programming and ethical hacking work, I'm also the founder and CEO of FusionX, a startup that aims to create sustainable technologies to help combat climate change. Our current projects include developing a water desalinator and a portable nuclear fusion power supply (although this one may be a bit of a stretch for now!).
 
