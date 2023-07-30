@@ -6,7 +6,7 @@ I'm a certified ethical hacker with a passion for programming. I have experience
 
 ## Founder and CEO of FusionX 💡
 
-In addition to my programming and ethical hacking work, I'm also the founder and CEO of FusionX, a startup that aims to create innovative solutions to problems. Our current projects include developing a Homemade Replica of the LiquidPiston X Mini.
+In addition to my programming and ethical hacking work, I'm also the founder and CEO of FusionX, a startup that aims to create innovative solutions to problems. Our current projects include developing a Open source operating system, Aeteria.
 
 At FusionX, we believe that technology is the key to a brighter future, and we're committed to doing our part to make that a reality. We're always looking for talented individuals to join our team, so if you're passionate about creating a better future, please don't hesitate to reach out!
 
