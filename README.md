@@ -2,11 +2,11 @@
 
 ## About Me 🤔
 
-I'm a certified ethical hacker with a passion for programming. I have experience in various programming languages such as C, Assembly, C++, Python, JavaScript, Java, Scala, and many others. I enjoy exploring new technologies and creating innovative solutions to complex problems.
+I have experience in various programming languages such as C, Assembly, C++, Python, JavaScript, Java, Scala, and many others. I enjoy exploring new technologies and creating innovative solutions to complex problems.
 
 ## Current Work 🔭
 
-Currently, I'm working as a bug bounty-hunter/pentester and contributing to open-source projects in my free time. I'm always looking for new challenges and opportunities to collaborate on exciting projects.
+Currently, I'm working as a bug bounty hunter and pen tester and contributing to open-source projects in my free time. I'm always looking for new challenges and opportunities to collaborate on exciting projects.
 
 ## Projects 🚀
 
@@ -26,7 +26,3 @@ I have worked on a variety of projects, ranging from web development to game pro
 Feel free to reach out to me via email or social media if you want to collaborate on a project or just say hello!
 
     Email: joegilliard2@email.com
-
-## Fun Fact 😄
-
-I love to workout in my free time and I'm also a huge fan of science and documentaries.
