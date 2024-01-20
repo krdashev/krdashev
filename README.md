@@ -1,12 +1,8 @@
-# Hi there, I'm Joe - aka **0x1nf1n1ty** or **0mniscient0** 👋
+# Hi there, I'm Joe👋
 
 ## About Me 🤔
 
-I have experience in various programming languages such as C, Assembly, C++, Python, JavaScript, Java, Scala, and many others. I enjoy exploring new technologies and creating innovative solutions to complex problems.
-
-## Current Work 🔭
-
-Currently, I'm working as a bug bounty hunter and pen tester and contributing to open-source projects in my free time. I'm always looking for new challenges and opportunities to collaborate on exciting projects.
+I have experience in various programming languages such as C, C++, Python, and many others. I enjoy exploring new technologies and creating innovative solutions to complex problems.
 
 ## Projects 🚀
 
