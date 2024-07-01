@@ -27,6 +27,11 @@ I have worked on a variety of projects, ranging from web development to game pro
 - **Reading**: I'm currently reading books like *Meditations*, *The Brothers Karamazov*, *Crime and Punishment*, *The Intelligent Investor*, *Trump: The Art of the Deal*, *The Psychology of Money*, *The Changing World Order*, and *Principles*.
 - **Writing**: I'm creating an Obsidian second brain of all my knowledge, wisdom, dreams, etc.
 
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/fr504an212q5e7d68q16ws4sl)
+<br/>
+
 ## Contact Me 📫
 
 Feel free to reach out to me via email or social media if you want to collaborate on a project or just say hello!
@@ -34,3 +39,4 @@ Feel free to reach out to me via email or social media if you want to collaborat
 - **Email**: joegilliard2@email.com
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=joegilliard)
+
