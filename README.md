@@ -1,5 +1,4 @@
 # Hi there, I'm Joe.
-![trophy](https://github-profile-trophy.vercel.app/?username=joegilliard)
 
 ## About Me 🤔
 
@@ -33,4 +32,5 @@ I have worked on a variety of projects, ranging from web development to game pro
 Feel free to reach out to me via email or social media if you want to collaborate on a project or just say hello!
 
 - **Email**: joegilliard2@email.com
-![](https://dcbadge.limes.pink/api/shield/1007014607178702870)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=joegilliard)
