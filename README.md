@@ -1,6 +1,6 @@
 # Hi there, I'm Joe.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=joegilliard)]
+![trophy](https://github-profile-trophy.vercel.app/?username=joegilliard)
 
 ## About Me 🤔
 
