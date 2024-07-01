@@ -31,3 +31,6 @@ Readinglist.txt:
 Contact:
   Email:    Joegilliard2@gmail.com
   Discord:  C0br.a
+```
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joegilliard&label=Profile%20views&color=0e75b6&style=flat" alt="joegilliard" />
+</p>
