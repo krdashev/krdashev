@@ -1,5 +1,7 @@
 # Hi there, I'm Joe.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=joegilliard)]
+
 ## About Me 🤔
 
 I am deeply fascinated by advanced physics and mathematics. I find great joy in exploring or creating cutting-edge technologies and finding solutions to solve complex problems. I have a strong background in various programming languages, including C, C++, Python, and others. In my spare time, I enjoy immersing myself in books to expand my knowledge in different fields, and I love working on ambitious projects that challenge my skills and creativity.
