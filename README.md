@@ -34,15 +34,12 @@ Contact:
   Email:    Joegilliard2@gmail.com
   Discord:  C0br.a
 ```
-
-<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
+---
 
 ### *Github Stats.Public*
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=joegilliard&label=Profile%20views&color=0e75b6&style=flat" alt="joegilliard" />
-</p>
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=joegilliard&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=joegilliard&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <br>
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=joegilliard&label=Profile%20views&color=0e75b6&style=flat" alt="joegilliard" /></p>
