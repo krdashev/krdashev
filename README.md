@@ -22,13 +22,13 @@ Hobbies:
                  Mathematics, Physics.applied, Physics.Theoretical
 
 Readinglist.txt:
-  - *The Brothers Karamazov*
-  - *Crime and Punishment*
-  - *The Intelligent Investor*
-  - *Trump: The Art of the Deal*
-  - *The Psychology of Money*
-  - *The Changing World Order*
-  - *Principles*
+              - *The Brothers Karamazov*
+              - *Crime and Punishment*
+              - *The Intelligent Investor*
+              - *Trump: The Art of the Deal*
+              - *The Psychology of Money*
+              - *The Changing World Order*
+              - *Principles*
 
 Contact:
   Email:    Joegilliard2@gmail.com
