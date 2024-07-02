@@ -4,7 +4,7 @@
 
 ```sh
 OS:              Windows 11, iOS, Kali, Ubuntu
-Uptime:          16 years 8 months 26 days
+Uptime:          15 years 8 months 26 days
 Host:            Effingham College and Career Academy #ECCA
 Kernel:          Computer Science and Engineering Pathways
 IDE:             IntelliJ Idea 2023.2, VSCode 1.90
