@@ -3,11 +3,11 @@
 ### *Joe@Gilliard*
 
 ```sh
-OS:         Windows 11, iOS, Kali, Ubuntu
-Uptime:     16 years 8 months 26 days
-Host:       Effingham College and Career Academy #ECCA
-Kernel:     Computer Science and Engineering Pathways
-IDE:        IntelliJ Idea 2023.2, VSCode 1.90
+OS:              Windows 11, iOS, Kali, Ubuntu
+Uptime:          16 years 8 months 26 days
+Host:            Effingham College and Career Academy #ECCA
+Kernel:          Computer Science and Engineering Pathways
+IDE:             IntelliJ Idea 2023.2, VSCode 1.90
 
 Languages:
   Programming:   Java, Python, C, Assembly, C++
@@ -36,7 +36,7 @@ Contact:
 ```
 ---
 
-### *Github Stats.Public*
+### *GithubStats.PublicRepo*
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=joegilliard&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=joegilliard&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
