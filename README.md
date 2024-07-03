@@ -4,7 +4,6 @@
 
 ```sh
 OS:              Windows 11, iOS, Kali, Ubuntu
-Uptime:          15 years 8 months 26 days
 Host:            Effingham College and Career Academy #ECCA
 Kernel:          Computer Science and Engineering Pathways
 IDE:             IntelliJ Idea 2023.2, VSCode 1.90
@@ -16,7 +15,7 @@ Languages:
 
 Hobbies:
   Software:      Pentesting, Minecraft modding, Red Teaming, OSINT, 
-                 Malware Development, Malware Analysis
+                 Malware Development, Malware Analysis, Cryptocurrency
   Hardware:      Arduino, PCB design, Embedded systems
   Real:          Leatherwork, Reading, Working out, Mechanical engineering, 
                  Mathematics, Physics.applied, Physics.Theoretical
