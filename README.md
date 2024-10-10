@@ -31,8 +31,7 @@ Readinglist.txt:
 
 Contact:
   Email:    Joegilliard2@gmail.com
-  Discord:  @C0br.a
-  Telegram: t.me/Talismnn
+  Discord:  C0br.a
 ```
 ---
 
