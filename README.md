@@ -14,10 +14,10 @@ Languages:
   Real:          English, French, German, Spanish
 
 Hobbies:
-  Software:      Pentesting, Minecraft modding, Red Teaming, OSINT, 
-                 Malware Development, Malware Analysis, Cryptocurrency
-  Hardware:      Arduino, PCB design, Embedded systems
-  Real:          Leatherwork, Reading, Working out, Mechanical engineering, 
+  Software:      Pentesting, Mathematical Analysis, Red Teaming, OSINT, 
+                 Data Analysis, Malware Analysis, Mechanical Design
+  Hardware:      Arduino, PCB design, Embedded systems, Aerodynamics
+  Real:          History, Reading, Working out, Mechanical engineering, 
                  Mathematics, Physics.applied, Physics.Theoretical
 
 Readinglist.txt:
