@@ -6,7 +6,7 @@
 OS:              Windows 11, iOS, Kali, Ubuntu
 Host:            Effingham College and Career Academy #ECCA
 Kernel:          Computer Science and Engineering Pathways
-IDE:             IntelliJ Idea 2023.2, VSCode 1.90
+IDE:             IntelliJ Idea, Rider, VSCode, Fleet, CLion
 
 Languages:
   Programming:   Java, Python, C, Assembly, C++
