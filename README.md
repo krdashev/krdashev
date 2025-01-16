@@ -1,7 +1,5 @@
 <img align="left" src="https://orhun.dev/img/crow.png">
 
-### *Joe@Gilliard*
-
 ```sh
 OS:              Windows 11, iOS, Kali, Ubuntu
 IDE:             IntelliJ Idea, Rider, VSCode, Fleet, CLion
