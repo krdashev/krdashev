@@ -4,8 +4,6 @@
 
 ```sh
 OS:              Windows 11, iOS, Kali, Ubuntu
-Host:            Effingham College and Career Academy #ECCA
-Kernel:          Computer Science and Engineering Pathways
 IDE:             IntelliJ Idea, Rider, VSCode, Fleet, CLion
 
 Languages:
@@ -29,16 +27,4 @@ Readinglist.txt:
               - *The Changing World Order*
               - *Principles*
 
-Contact:
-  Email:    Joegilliard2@gmail.com
-  Discord:  C0br.a
-```
 ---
-
-### *GithubStats.Public_Repos*
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=joegilliard&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=joegilliard&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <br>
-</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=joegilliard&label=Profile%20views&color=0e75b6&style=flat" alt="joegilliard" /></p>
