@@ -1,13 +1,13 @@
 <img align="left" src="https://orhun.dev/img/crow.png">
 
 ```sh
-OS:              Windows 11, iOS, Kali, Ubuntu
-IDE:             IntelliJ Idea, Rider, VSCode, Fleet, CLion
+OS:              Windows 11, Kali, Ubuntu
+IDE:             VSCode, CLion
 
 Languages:
-  Programming:   Python, C, C++
+  Programming:   Python, C, C++, Visual Basic .NET
   Computer:      HTML, CSS, JS, XML, JSON, MD
-  Real:          English, French, German, Spanish
+  Real:          English, Mandarin, French
 
 Hobbies:
   Software:      Pentesting, Mathematical Analysis, Red Teaming, OSINT, 
