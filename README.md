@@ -12,6 +12,6 @@ Languages:
 Hobbies:
   Software:      Pentesting, Mathematical Analysis, Red Teaming, OSINT, 
                  Data Analysis, Malware Analysis, Mechanical Design
-  Hardware:      Arduino, PCB design, Embedded systems, Aerodynamics
-  Real:          History, Reading, Working out, Mechanical engineering, 
-                 Mathematics, Physics.applied, Physics.Theoretical
+  Hardware:      Arduino, PCB design, Embedded systems, C/C++, Python
+  Real:          History, Reading, Working out, Mechanical Engineering, 
+                 Mathematics, Physics
