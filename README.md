@@ -23,6 +23,5 @@ Focused on problems where integrity, confidentiality, and provenance actually ma
 - building software that does something to help solve a problem, not AI vibe-coded slop
 - building systems that protect the US and her allies from threats both foreign and domestic
 
-## **Security & Disclosure:**
-### Encrypted contact available via Signal and PGP.
+## Encrypted contact available via Signal and PGP.
 **PGP:** E75F 6D7D 1DFF 2292 D7F5 4A06 292E 43D9 C84E 61DF
