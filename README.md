@@ -15,13 +15,13 @@ Focused on problems where integrity, confidentiality, and provenance actually ma
 - Aircraft Structure Technology Certification - Savannah Technical College
 
 ## Interests
-- theology, connecting with god, and living like Christ
-- lifting heavy things repeatedly
-- reading (classics, math, cryptography, history, philosophy)
-- long walks with no headphones
-- systems that make life quieter instead of louder
-- building software that does something to help solve a problem, not AI vibe-coded slop
-- building systems that protect the US and her allies from threats both foreign and domestic
+- Theology, connecting with god, and living like Christ
+- Lifting heavy things repeatedly
+- Reading (classics, math, cryptography, history, philosophy)
+- Long walks with no headphones
+- Systems that make life quieter instead of louder
+- Building software that does something to help solve a problem, not AI vibe-coded slop
+- Building systems that protect the US and her allies from threats both foreign and domestic
 
 ## Encrypted contact available via Signal and PGP.
 **PGP:** E75F 6D7D 1DFF 2292 D7F5 4A06 292E 43D9 C84E 61DF
