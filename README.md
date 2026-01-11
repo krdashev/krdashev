@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I’m Joe </h1>
-<p align="center"><a href="https://github.com/krdashev"><img src="https://img.shields.io/badge/github-krdashev-000?logo=github" alt="Github"></a>&nbsp;&nbsp;<a href="https://signal.me/#eu/joEm7xH9I4q5xGGwZ-YjJRWn1YXUMMa8gfSrXfpfPZi4cOqahDVEGZLS8Y2FgwaX"><img src="https://img.shields.io/badge/Signal-contact-3a76f0?logo=signal&logoColor=white" alt="Signal contact"></a>&nbsp;&nbsp;<a href="https://discord.com/users/1007014607178702870"><img src="https://img.shields.io/badge/discord-N___.13-5865F2?logo=discord&logoColor=white" alt="Discord"></a>&nbsp;&nbsp;<a href="mailto:j@tollway.net"><img src="https://img.shields.io/badge/Email-j@tollway.net-444" alt="Email j@tollway.net"></a></p>
+<p align="center"><a href="https://github.com/krdashev"><img src="https://img.shields.io/badge/github-krdashev-000?logo=github" alt="Github"></a>&nbsp;&nbsp;<a href="https://signal.me/#eu/joEm7xH9I4q5xGGwZ-YjJRWn1YXUMMa8gfSrXfpfPZi4cOqahDVEGZLS8Y2FgwaX"><img src="https://img.shields.io/badge/Signal-contact-3a76f0?logo=signal&logoColor=white" alt="Signal contact"></a>&nbsp;&nbsp;<a href="https://discord.com/users/1007014607178702870"><img src="https://img.shields.io/badge/discord-N___.13-5865F2?logo=discord&logoColor=white" alt="Discord"></a>&nbsp;&nbsp;<a href="mailto:jbgvacation@gmail.com"><img src="https://img.shields.io/badge/Email-jbgvacation@gmail.com-444" alt="Email jbgvacation@gmail.com"></a></p>
 
 I grew up mostly online, taught myself to build things, and ended up writing software around cryptography, secure data infrastructure, and critical systems where a single error could cost lives.
 
@@ -21,12 +21,7 @@ Focused on problems where integrity, confidentiality, and provenance actually ma
 - long walks with no headphones
 - systems that make life quieter instead of louder
 - building software that does something to help solve a problem, not AI vibe-coded slop
-- building and defending systems that protect the US and her allies from real‑world threats, foreign and domestic
-
-## Belief Statement
-modern “education” trains people to chase credentials and debt. feeds train them to chase notifications. a lot of “ai” trains them to stop critical thinking and being creative.
-
-I’d rather work on the often boring, unfashionable stuff that keeps our civilization running: cryptography, infrastructure, supply chains, systems engineering, data.
+- building systems that protect the US and her allies from threats both foreign and domestic
 
 ## **Security & Disclosure:**
 ### Encrypted contact available via Signal and PGP.
