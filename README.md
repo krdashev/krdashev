@@ -22,4 +22,6 @@ I grew up mostly online, taught myself to build things, and ended up writing sof
 - Building systems that protect the US and her allies from threats both foreign and domestic
 
 ## Encrypted contact available via Signal and PGP.
-**PGP:** E75F 6D7D 1DFF 2292 D7F5 4A06 292E 43D9 C84E 61DF
+<https://signal.me/#eu/joEm7xH9I4q5xGGwZ-YjJRWn1YXUMMa8gfSrXfpfPZi4cOqahDVEGZLS8Y2FgwaX>
+
+J@tollway.net **PGP:** 46E4 759B ED0C 217F 9A31 F709 163A 2BF2 1E5F 7514
