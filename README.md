@@ -8,7 +8,7 @@ I grew up mostly online, taught myself to build things, and ended up writing sof
 - Running a marketing agency on the side
 
 ## Previously
-- Gulfstream Completions Engineering Stress Team (At Gulfstream, helped design and build internal applications, algorithms, and workflows used daily by a few thousand employees across engineering, production, and sales while I was still in a sophmore and junior in high school.) 
+- Gulfstream Completions Engineering Stress Team (At Gulfstream, helped design and build internal applications, algorithms, and workflows used daily by many employees across engineering, production, and sales while I was still a sophomore and junior in high school.) 
 - Effingham College & Career Academy - Engineering Pathway
 - Aircraft Structure Technology Certification - Savannah Technical College
 
